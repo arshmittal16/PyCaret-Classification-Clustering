@@ -3,4 +3,4 @@ Hey! This is a notebook explaining newly launched PyCaret Machine Learning Libra
 
 Also includes Saving, Loading and Prediction using Saved Model, converting to Pandas DataFrame and applying TOPSIS.
 
-The link to my YouTube Video: 
+The link to my YouTube Video: https://youtu.be/NnQNq7d-8BU
